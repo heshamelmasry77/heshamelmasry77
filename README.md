@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 
 
 
+[website]: http://audhiaprilliant.github.io/
+[medium]: https://medium.com/@audhiaprilliant/
+[kaggle]: https://www.kaggle.com/audhiaprilliant
+[codechef]: http://codechef.com/users/audhi
+[twitter]: https://twitter.com/audhiaprilliant
+[facebook]: https://www.facebook.com/audhi.aprilliant/
+[linkedin]: https://www.linkedin.com/in/audhiaprilliant/
