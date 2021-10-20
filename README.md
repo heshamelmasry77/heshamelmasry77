@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
 - ⚡ Fun facts:
-https://github-readme-stats.vercel.app/api?username=heshamelmasry77&show_icons=true&hide_border=true
+-->
+
+<img align="left" alt="heshamelmasry77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heshamelmasry77&show_icons=true&hide_border=true" />
+
 
 
