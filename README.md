@@ -15,21 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun facts:
 -->
-### Connect with me:
-
-[facebook]: https://www.facebook.com/hesham.fathy7/
-[linkedin]: https://www.linkedin.com/in/heshamelmasry7/
-
 <br />
 
 <img align="left" alt="heshamelmasry77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heshamelmasry77&show_icons=true&hide_border=true" />
-
-
-
-[website]: http://audhiaprilliant.github.io/
-[medium]: https://medium.com/@audhiaprilliant/
-[kaggle]: https://www.kaggle.com/audhiaprilliant
-[codechef]: http://codechef.com/users/audhi
-[twitter]: https://twitter.com/audhiaprilliant
-[facebook]: https://www.facebook.com/audhi.aprilliant/
-[linkedin]: https://www.linkedin.com/in/audhiaprilliant/
