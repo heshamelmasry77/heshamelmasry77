@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello I'm a Front-End Developer. I love building web apps. I enjoy learning new Front-End frameworks.
+
+8+ yrs exp. front-end dev. Skilled in HTML, CSS, JS. 1yr of teaching exp. Dedicated to creating visually stunning & UX websites and mentoring future developers.
 
 <!--
 **heshamelmasry77/heshamelmasry77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
