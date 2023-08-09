@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-8+ yrs exp. front-end dev. Skilled in HTML, CSS, JS. 1yr of teaching exp. Dedicated to creating visually stunning & UX websites and mentoring future developers.
+8+ yrs exp. front-end dev. Skilled in HTML, CSS, and JS. 2yr of teaching exp. I am dedicated to creating visually stunning & UX websites and mentoring future developers.
 
 <!--
 **heshamelmasry77/heshamelmasry77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
