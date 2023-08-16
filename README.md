@@ -2,7 +2,7 @@
 
 8+ yrs exp. front-end dev. Skilled in HTML, CSS, and JS. 2yr of teaching exp. I am dedicated to creating visually stunning & UX websites and mentoring future developers.
 
-#### 💬 🤔 Note: Pinned projects are the projects I try to keep maintaining it.
+#### 📌✨ Note: Projects I've pinned are those I actively maintain and update.
 
 <!--
 **heshamelmasry77/heshamelmasry77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
