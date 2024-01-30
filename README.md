@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-8+ yrs exp. front-end dev. Skilled in HTML, CSS, and JS. 2yrs of teaching exp. I am dedicated to creating visually stunning & UX websites and mentoring future developers.
+8+ yrs exp. front-end dev. Skilled in HTML, CSS, and JS. 3yrs of teaching exp. I am dedicated to creating visually stunning & UX websites and mentoring future developers.
 
 #### 📌✨ Note: Projects I've pinned are those I actively maintain and update.
 
